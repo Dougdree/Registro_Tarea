@@ -1,5 +1,6 @@
+// luego poner el punto de partida del codigo que vayamos a realizar //
 #include <stdio.h>
-
+// luego poner el punto de partida del codigo que vayamos a realizar //
 int main() {
     // Declaro variables //
     int edad;      // variable entera //
